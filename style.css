@@ -1,0 +1,39 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+h1
+{color:black;
+    font-size: 50px;
+    background-color:white;
+    width: 400px;
+    border-style: double;
+    border-width: 4px;
+    border-color: black;}
+
+body{
+     background: size 400px;
+    background-position: center;
+}
+
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+
+h3
+{color:red;
+    font-size: 25px;
+    background-color:white;
+    width: 200px;
+    border-style: double;
+    border-width: 4px;
+    border-color: black;}
